@@ -1,0 +1,12 @@
+A empresa trambiques ltda, deve controlar e calcular a folha de pagamento de seus funcionários.
+Cada funcionário tem uma matricula,um nome,salário e departamento.
+E cada funcionário pode ser classificado como um horista(valor de hora e quantidade de horas) e um mensalista (salario fixo por mês).
+Cada departamento é formado por um nome e uma sigla, exemplo: 
+Contabilidade - sigla CONT, alme de um conjunto de funcionarios no maximo 4 por departamento que pode ser um horista e/ou um mensalista.
+Voce deve controlar os funcionarios por departamento, gerando a folha de pagamento para os setores, no formato:
+
+Departamento XXXXXXX sigla XXX
+
+matricula 	nome 		salario 	classificação
+XXXXXXXX	XXXXX		9999,99		Mensalista
+XXXXXXXX	XXXXX		9999,99		Horista

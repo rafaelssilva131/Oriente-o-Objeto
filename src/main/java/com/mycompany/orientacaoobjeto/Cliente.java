@@ -20,6 +20,7 @@ public class Cliente {
     public int getIdCliente(){
         return idCliente;
     }
+    
     public void setIdCliente(int id){
         this.idCliente = id;
     }
